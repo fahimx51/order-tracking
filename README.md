@@ -90,7 +90,3 @@ types/
 ## Deployment
 
 Deployed on Vercel at https://order-tracking-jade.vercel.app/. Import the GitHub repository, keep the default Next.js settings, and deploy. No environment variables are needed.
-
-## AI usage
-
-AI tools were used during this assessment. The complete prompt history is in [`AI_PROMPT_HISTORY.txt`](./AI_PROMPT_HISTORY.txt).
